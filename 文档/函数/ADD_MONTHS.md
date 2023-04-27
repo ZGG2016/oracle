@@ -12,6 +12,13 @@ SQL> select add_months(TO_DATE('19991020','YYYYMMDD'), 2) from dual;
 ADD_MONTHS(TO_DATE('19991020','YYYYMMDD'),2)
 --------------------------------------------
 1999/12/20
+
+
+SQL> select add_months(TO_DATE('19991020','YYYYMMDD'), -2) from dual;
+
+ADD_MONTHS(TO_DATE('19991020','YYYYMMDD'),-2)
+---------------------------------------------
+1999/8/20
 ```
 
 date 参数可以是 datetime 值，或是能隐式地转换成 DATE 的值。
