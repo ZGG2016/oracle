@@ -1,6 +1,6 @@
 # oracle 自动分区
 
-来自：[https://blog.csdn.net/dot_life/article/details/109376639?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.pc_relevant_aa&spm=1001.2101.3001.4242.2&utm_relevant_index=4](https://blog.csdn.net/dot_life/article/details/109376639?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.pc_relevant_aa&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
+来自：[https://blog.csdn.net/dot_life/article/details/109376639](https://blog.csdn.net/dot_life/article/details/109376639)
 
 1. 建表
 
