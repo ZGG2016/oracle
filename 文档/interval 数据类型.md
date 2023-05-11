@@ -4,7 +4,7 @@
 
 ## YEAR TO MONTH
 
-![YEAR TO MONTH](./image/interval01.png)
+![YEAR TO MONTH](./images/interval01.png)
 
 - integer: 首个和可选的末尾字段的整型值。如果首个字段是 YEAR, 末尾字段是 MONTH, 那么月份字段的范围是0到11
 
@@ -78,7 +78,7 @@ INTERVAL'5-3'YEARTOMONTH+INTERVAL'20'MONTH
 
 ## DAY TO SECOND
 
-![DAY TO SECOND](./image/interval02.png)
+![DAY TO SECOND](./images/interval02.png)
 
 - integer: 天数
 

@@ -34,7 +34,7 @@ numtoyminterval 的用法见：[https://docs.oracle.com/cd/E11882_01/server.112/
 select * from user_tab_partitions where table_name='TEST_PART';
 ```
 
-![自动分区01](./image/自动分区01.png)
+![自动分区01](./images/自动分区01.png)
 
 2. 插入数据
 
@@ -52,7 +52,7 @@ commit;
 select * from user_tab_partitions where table_name='TEST_PART';
 ```
 
-![自动分区02](./image/自动分区02.png)
+![自动分区02](./images/自动分区02.png)
 
 3. 查看单独分区数据
 
@@ -60,12 +60,12 @@ select * from user_tab_partitions where table_name='TEST_PART';
 select * from TEST_PART partition(SYS_P10650);
 ```
 
-![自动分区03](./image/自动分区03.png)
+![自动分区03](./images/自动分区03.png)
 
-![自动分区04](./image/自动分区04.png)
+![自动分区04](./images/自动分区04.png)
 
-![自动分区05](./image/自动分区05.png)
+![自动分区05](./images/自动分区05.png)
 
-![自动分区06](./image/自动分区06.png)
+![自动分区06](./images/自动分区06.png)
 
-![自动分区07](./image/自动分区07.png)
+![自动分区07](./images/自动分区07.png)
